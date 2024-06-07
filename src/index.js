@@ -5,6 +5,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import '@fortawesome/fontawesome-free/css/all.min.css';
+import '@fortawesome/free-solid-svg-icons';
+import '@fortawesome/free-regular-svg-icons';
+import '@fortawesome/free-brands-svg-icons';
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
